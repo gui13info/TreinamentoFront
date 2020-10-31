@@ -1,4 +1,4 @@
-# treino-enoque-react
+# TreinamentoFront
 Código referente ao treinamento de Enoque sobre React
 
 ## Para instalar o projeto
