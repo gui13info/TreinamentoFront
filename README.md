@@ -5,3 +5,4 @@ Código referente ao treinamento de Enoque sobre React
 - clonar o repositório para máquina local
 - para instalar as dependências do package.json: ```yarn```
 - para rodar o projeto: ```yarn start```
+- abrir em qualquer navegador: ```localhost:3000```
